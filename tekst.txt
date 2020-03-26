@@ -1,0 +1,4 @@
+testiranje otvaranja fajla
+1
+2
+3
